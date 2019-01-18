@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolsbar">#ffffff</color>
+    <color name="colorPrimaryDark">#c4c4c4</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#53e24b</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_dark_light">#f4f4f4</color>
+    <color name="line">#f4f4f4</color>
+    <color name="white_dark">#F2F2F2</color>
+    <color name="white_ddark">#efefef</color>
+    <color name="e8white">#e8ffffff</color>
+    <color name="gray">#b2b2b2</color>
+    <color name="gray_llight">#ededed</color>
+    <color name="gray_light">#d4d4d4</color>
+    <color name="gray_dark">#2e2e2e</color>
+    <color name="gray_ldark">#4a4b5b</color>
+    <color name="gray_lldark">#666666</color>
+    <color name="black_light">#030303</color>
+    <color name="black">#000000</color>>
+    <color name="orange">#fb8b2f</color>
+    <color name="orangedk">#ff8000</color>
+    <color name="color">#36b3a2</color>
+    <color name="trcolor">#cc36b3a2</color>
+    <color name="trblick">#3d000000</color>
+    <color name="red">#FF0000</color>
+    <color name="red_light">#ff6d6d</color>
+    <color name="color_ldark">#038e95</color>
+    <color name="color_lldark">#31a696</color>
+    <color name="color_llddark">#357b71</color>
+    <color name="color_dark">#0b7379</color>
+    <color name="blue_dark">#0d7de6</color>
+    <color name="transparent">#00ffffff</color>
+</resources>
